@@ -1,6 +1,9 @@
 import 'dart:io';
 
 void main() {
+  // Roberto Pérez Acosta, Mat: 22308051281084
+  // Redaccion
+  print('Escribe un programa que tome una lista de números enteros (int) y devuelva una nueva lista con solo los números pares, que utilice 2 funciones una para capturar datos de la lista y otra para mostrar los elementos');
   // Capturar la lista de números enteros
   List<int> numeros = capturarLista();
 
