@@ -15,6 +15,8 @@ void main() {
     12: 'Diciembre'
   };
 
+  print('tabla empleado');
+
   // Imprimir el Map
   print('Meses del año: ${meses}');
   
@@ -28,4 +30,7 @@ void main() {
     print('$mes');
   });
 
+  print('tabla cliente');
+
+  print('tabla proveedor');
 }
